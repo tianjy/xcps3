@@ -1,4 +1,4 @@
-<android>
+﻿<android>
 	<engine_type>lib</engine_type>
 	<workdir_policy>1/2/3</workdir_policy> 
 	<build_server_list>
@@ -22,3 +22,5 @@
 	<engine_version>3.1.10</engine_version>
 	<workdir_policy>1</workdir_policy>
 </android>
+
+版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2版本2
