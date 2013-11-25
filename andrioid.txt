@@ -1,0 +1,24 @@
+<android>
+	<engine_type>lib</engine_type>
+	<workdir_policy>1/2/3</workdir_policy> 
+	<build_server_list>
+		<server>
+			<ip>192.168.2.155</ip>
+			<port>8011</port>
+			<build_root_path>d:\xface\xfaceApollo\xFace-Apollo\trunk\product\project\dev_android\xFaceApollo\</build_root_path>
+		</server>
+	<engine_project_path>general/3.0.2/</engine_project_path>
+	<engine_version>3.0.2</engine_version>
+	<engine_build>21345</engine_build>
+</android>
+
+
+<android>
+	<build_server_list>
+	</build_server_list>
+	<engine_build>17923</engine_build>
+	<engine_project_path>release/3.1.x/project/engine/securepay/android/xFaceSecurePayPlayer</engine_project_path>
+	<engine_type>lib</engine_type>
+	<engine_version>3.1.10</engine_version>
+	<workdir_policy>1</workdir_policy>
+</android>
